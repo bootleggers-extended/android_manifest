@@ -3,7 +3,7 @@ Bootleggers Extended ROM | Pastafrola (Android Pie) sources
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/Bootleggers-Extended/manifest.git -b pasta
+	repo init -u https://github.com/Bootleggers-Extended/android_manifest.git -b pasta
 
 Then, be sure to add your device manifest in your local_manifests folder and finally, do:
 
