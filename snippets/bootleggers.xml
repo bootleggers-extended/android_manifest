@@ -53,7 +53,7 @@
   <project path="system/netd" name="system_netd" groups="pdk" remote="bootleggers" />
   <project path="system/sepolicy" name="system_sepolicy" groups="pdk" remote="bootleggers" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="bootleggers" />
-  <project path="vendor/bootleggers" name="vendor_bootleggers" remote="bootleggers" />
+  <project path="vendor/bootleggers" name="vendor_bootleggers" remote="be" />
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="bootleggers" />
 
   <!-- HardWare QCOM -->
